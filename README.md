@@ -10,7 +10,7 @@
 [<img align="left" alt="giannhs_r" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="giannhs41" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="giannhs roussos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<!--
 <br />
 
 ### Languages and Tools:
@@ -26,7 +26,7 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-
+-->
 <br />
 <br />
 <br />
