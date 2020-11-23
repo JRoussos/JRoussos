@@ -1,41 +1,44 @@
+[![Banner](./banner.png "John Roussos")](/)
+
 ## Hey there, I'm John 👋 
 
-### I'm a front-developer and software engineer
-- 🌱 I’m currently improving on my React skills and learning frameworks like Next.js and Gatsby.js
-- 🥅 Goals for 2021: Learn back-end - Node.js, Go and MongoDB
-- 💬 Always happy to help, just ask me anything 
+## I'm a front-developer and software engineer
 
-### Follow me on:
-
-[<img align="left" alt="giannhs_r" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="giannhs41" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="giannhs roussos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<!--
 <br />
 
-### Languages and Tools:
+🌱 I’m currently improving on my React skills and learning frameworks like Next.js and Gatsby.js <br />
+🥅 Goals for 2021: Learn back-end - Node.js, Go and MongoDB <br />
+💬 Always happy to help, just ask me anything <br />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
--->
-<br />
-<br />
+<br/>
+
+## Tools & Technologies 🔧 
+
 <br />
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jroussos&show_icons=true&hide_border=true" />
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/C%20Language-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
+
+
+<br />
+<br />
+<br />
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jroussos&show_icons=true&hide_border=true&bg_color=242525&text_color=fff&title_color=dedede&icon_color=dedede"/>
 
 [instagram]: https://www.instagram.com/giannhs_r
 [twitter]: https://twitter.com/giannhs41
 [facebook]: https://www.facebook.com/giannhs.roussos.s
+
 
 <!--
 **JRoussos/JRoussos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
