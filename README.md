@@ -1,8 +1,6 @@
 [![Banner](./banner.png "John Roussos")](/)
 
-## Hey there, I'm John 👋 
-
-## I'm a front-developer and software engineer
+## Hey there, I'm John 👋 <br/> I'm a front-developer and software engineer
 
 <br />
 
