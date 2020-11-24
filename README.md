@@ -1,4 +1,4 @@
-[![Banner](./banner.png "John Roussos")](/)
+[![Banner](./banner.png "John Roussos")](https://johnroussos.me)
 
 ## Hey there, I'm John 👋 <br/> I'm a front-developer and software engineer
 
