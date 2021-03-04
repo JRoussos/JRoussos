@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jroussos&show_icons=true&hide_border=true&bg_color=242525&text_color=fff&title_color=dedede&icon_color=dedede"/>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jroussos&show_icons=true&hide_border=true&hide=stars&bg_color=242525&text_color=fff&title_color=dedede&icon_color=dedede"/>
 
 [instagram]: https://www.instagram.com/giannhs_r
 [twitter]: https://twitter.com/giannhs41
