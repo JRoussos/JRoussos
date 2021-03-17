@@ -1,12 +1,12 @@
 [![Banner](./banner.gif "John Roussos")](https://johnroussos.me)
 
-<br>
+<!-- <br> -->
 
-<h5 align='center'>
-<a href="https://johnroussos.me" title="johnroussos.me">PORTFOLIO</a>
-<a href="https://www.instagram.com/giannhs_r" title="@giannhs_r">INSTAGRAM</a>
-<a href="https://twitter.com/giannhs41" title="@giannhs41">TWITTER</a>
-</h5>
+<!-- <h5 align='center'> -->
+<!-- <a href="https://johnroussos.me" title="johnroussos.me">PORTFOLIO</a> -->
+<!-- <a href="https://www.instagram.com/giannhs_r" title="@giannhs_r">INSTAGRAM</a> -->
+<!-- <a href="https://twitter.com/giannhs41" title="@giannhs41">TWITTER</a> -->
+<!-- </h5> -->
 
 
 <!-- <br /> -->
