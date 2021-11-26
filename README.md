@@ -1,5 +1,6 @@
-[![Banner](./banner.gif "John Roussos")](https://johnroussos.me)
+[![Banner](./banner.gif "John Roussos")](https://johnroussos.info)
 
+<p style="font-size: 12px">This is actually a Three.js animation I made. You can check it <a href="https://learning-three-js.netlify.app/?page=mixed_typo">here</a>.</p>
 <!-- <br> -->
 
 <!-- <h5 align='center'> -->
