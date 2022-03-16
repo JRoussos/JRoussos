@@ -1,6 +1,26 @@
-[![Banner](./banner.gif "John Roussos")](https://johnroussos.info)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+    <body>
+        <div>
+            <p id="typewriter" style="position: absolute; top: 50%; right: 50%; transform: translateX(50%)">
+                <span class="Typewriter__wrapper">JR.</span>
+                <span class="Typewriter__cursor">|</span>
+            </p>
+        </div>
+    </body>
+</html>
 
-<p style="font-size: 12px">This is actually a Three.js animation I made. You can check it <a href="https://learning-three-js.netlify.app/?page=mixed_typo">here</a>.</p>
+
+<!-- [![Banner](./banner.gif "John Roussos")](https://johnroussos.info)
+
+<p style="font-size: 12px">This is actually a Three.js animation I made. You can check it <a target="_blank" rel="noopener noreferrer" href="https://learning-three-js.netlify.app/?page=mixed_typo">here</a>.</p> -->
 <!-- <br> -->
 
 <!-- <h5 align='center'> -->
@@ -37,9 +57,9 @@
 <!-- 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jroussos&show_icons=true&hide_border=true&hide=stars&bg_color=242525&text_color=fff&title_color=dedede&icon_color=dedede"/> -->
 
-[instagram]: https://www.instagram.com/giannhs_r
+<!-- [instagram]: https://www.instagram.com/giannhs_r
 [twitter]: https://twitter.com/giannhs41
-[facebook]: https://www.facebook.com/giannhs.roussos.s
+[facebook]: https://www.facebook.com/giannhs.roussos.s -->
 
 
 <!--
