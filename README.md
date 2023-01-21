@@ -1,18 +1,27 @@
-[![Banner](./banner.gif "John Roussos")](https://johnroussos.info)
-<!-- <p style="font-size: 12px">This is actually a Three.js animation I made. You can check it <a target="_blank" rel="noopener noreferrer" href="https://learning-three-js.netlify.app/?page=mixed_typo">here</a>.</p> -->
-<!-- <br> -->
+<!-- ### John Roussos
+[![Website](https://img.shields.io/website?up_message=johnroussos.dev&url=https%3A%2F%2Fjohnroussos.dev)](https://johnroussos.dev)
+[![Gmail Badge](https://img.shields.io/badge/gmail-jroussosdev%40gmail.com-red)](mailto:jroussosdev@gmail.com) -->
 
-<!--
-**JRoussos/JRoussos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/bin/python3
 
-Here are some ideas to get you started:
+class John:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.first_name = "John"
+        self.last_name = "Roussos"
+        self.pronouns = "he/him"
+        self.email = "jroussosdev@gmail.com"
+        self.website = "johnroussos.dev"
+
+    def hello_world(self):
+        print("Hi, I'm John! I'm a software developer")
+        print("I like creating interactive motion experiences")
+
+    def contact_me(self):
+        print(f"Feel free to contact me at {self.email}")
+
+me = John()
+me.hello_world()
+
+```
