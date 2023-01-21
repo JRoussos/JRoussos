@@ -12,7 +12,7 @@ class John:
         self.last_name = "Roussos"
         self.pronouns = "he/him"
         self.email = "jroussosdev@gmail.com"
-        self.website = "johnroussos.dev"
+        self.website = "https://johnroussos.dev/"
 
     def hello_world(self):
         print("Hi, I'm John! I'm a software developer")
