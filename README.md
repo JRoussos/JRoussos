@@ -10,7 +10,6 @@ class John:
     def __init__(self):
         self.first_name = "John"
         self.last_name = "Roussos"
-        self.pronouns = "he/him"
         self.email = "jroussosdev@gmail.com"
         self.website = "https://johnroussos.dev/"
 
